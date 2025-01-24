@@ -1,4 +1,3 @@
-# full-stack-project
 # Full-Stack Project
 
 ## Table of Contents
